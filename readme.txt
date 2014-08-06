@@ -7,3 +7,5 @@ readme    readme  readme    readme  readme  readme  readme
       create a new branch is quick
 
       master master master master masterfeature1feature1feature1feature1feature1feature1feature1
+
+      modify bug
